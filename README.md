@@ -8,5 +8,5 @@ Leading investment projects and startups made me realize that I was always depen
 
 🌱 Right now i'm working on building experience and knowledge as a DevSecOps
 
-Want to connect?
-[LinkedIn](https://www.linkedin.com/in/jvictordantas/ "LinkedIn")
+Want to connect? [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvictordantas/)](https://www.linkedin.com/in/jvictordantas/) 
+

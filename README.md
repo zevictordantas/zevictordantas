@@ -10,11 +10,11 @@ My current goal is to be part of an ecosystem of professionals committed to deve
 
 #### 🚀 I’m currently working on
 
-My startup project, Corp Insider, and in my consulting firm, KMJ.
+Aluna.Social and in my consulting firm, KMJ.
 
 #### 🌱 I’m currently learning
 
-- Angular
+- Next.JS
 - Vue
 - Software architecture and design.
 

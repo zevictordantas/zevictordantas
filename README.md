@@ -2,7 +2,7 @@
 
 #### 🏆Description
 
-I'm experienced with leading investment projects, innovation consulting, startups and web development. To become a complete leader I'm always studying technologies, methodologies, investment analysis and business innovation, in order to be prepared to lead teams of developers, investment projects and innovative business. 
+To become a complete leader I'm always studying technologies, methodologies, investment analysis and business innovation, in order to be prepared to lead teams of developers, investment projects and innovative business. 
 
 #### 🔭 Big dream
 

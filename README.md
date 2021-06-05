@@ -14,8 +14,8 @@ Aluna.Social and in my consulting firm, KMJ.
 
 #### 🌱 I’m currently learning
 
-- Next.JS
-- Vue
+- NextJS
+- NodeJS
 - Software architecture and design.
 
 Want to connect? [![Linkedin Badge](https://img.shields.io/badge/-JoseVictor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvictordantas/)](https://www.linkedin.com/in/jvictordantas/) 

@@ -2,20 +2,16 @@
 
 #### 🏆Description
 
-To become a complete leader I'm always studying technologies, methodologies, investment analysis and business innovation, in order to be prepared to lead teams of developers, investment projects and innovative business. 
-
-#### 🔭 Big dream
-
-My current goal is to be part of an ecosystem of professionals committed to developing new businesses, innovation, different strategies and identifying great investment opportunities, whether social or in order to profit.
+I'm always studying technologies in order to be prepared to contribute to projects with other developers. My current goal is to become a good leader and a great software engineer, delve and learn about Blockchain, DeFi and DAOs. I'm looking forward to being a part of an ecosystem of professionals committed to developing new businesses, investing and making the world better with tech.
 
 #### 🚀 I’m currently working on
 
-Aluna.Social and in my consulting firm, KMJ.
+Faktura, Yeti labs and Carbona.
 
 #### 🌱 I’m currently learning
 
-- NextJS
-- NodeJS
+- Web3
+- Solidity
 - Software architecture and design.
 
 Want to connect? [![Linkedin Badge](https://img.shields.io/badge/-JoseVictor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvictordantas/)](https://www.linkedin.com/in/jvictordantas/) 
